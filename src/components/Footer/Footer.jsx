@@ -39,8 +39,8 @@ const Footer = () => {
         <hr />
         <p className="footer__text">
           © {new Date().getFullYear()} - Template developed by{' '}
-          <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
-            Jacobo Martínez
+          <a href="https://www.linkedin.com/in/andres-fabregat-nogueras/" target="_blank" rel="noopener noreferrer">
+            Andrés Fabregat Nogueras
           </a>
         </p>
 
